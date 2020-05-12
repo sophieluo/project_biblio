@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* A book management app written in Ruby on Rails (backend API) + ReactJS (frontend)
 
-Things you may want to cover:
+** Scanner to scan book bar code
 
-* Ruby version
+** Calls OCLC API (http://classify.oclc.org/classify2/api_docs/index.html)
 
-* System dependencies
+** Other features to be developed...
 
-* Configuration
+* Future developments
 
-* Database creation
+** Second-hand book marketplace
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+** Vertical social network for book lovers :)
